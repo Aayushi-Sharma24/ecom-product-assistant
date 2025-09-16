@@ -11,3 +11,4 @@ wheels/
 .ecom-venv
 env/
 .env
+logs/
